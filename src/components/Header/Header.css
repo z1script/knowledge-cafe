@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  margin: 0.7rem 0;
+  border-bottom: 1px solid #77889959;
+  padding-bottom: 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  background-color: lavender;
+}
