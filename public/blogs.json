@@ -5,17 +5,17 @@
     "title": "How To Get Your First Job As a Self-Taught Programmer",
     "profile": "https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/talent/profile/picture_file/picture/1073140/huge_e983dff0df2388dcceb961238f76a000-324a6630c8668733f1ad03d6e0428bfa.jpg&width=425",
     "cover": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "readTime": 0,
+    "readTime": 5,
     "published": "03/09/2023"
   },
 
   {
     "id": 2,
-    "author": "Claver Org",
+    "author": "Claver Zorge",
     "title": "10 Tips for Mastering Object-Oriented Programming in Python",
     "profile": "https://userphotos2.teacheron.com/888852-51438.png",
     "cover": "https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
-    "readTime": 0,
+    "readTime": 10,
     "published": "03/23/2023"
   },
   {
@@ -24,7 +24,7 @@
     "title": "The Importance of Code Refactoring: Strategies and Best Practices",
     "profile": "https://pbs.twimg.com/profile_images/828170868983427073/eFwAi20E_400x400.jpg",
     "cover": "https://images.unsplash.com/photo-1505238680356-667803448bb6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "readTime": 0,
+    "readTime": 14,
     "published": "04/07/2022"
   },
   {
@@ -33,7 +33,7 @@
     "title": "Getting Started with React: A Beginner's Guide to Building Web Applications",
     "profile": "https://i1.rgstatic.net/ii/profile.image/11431281085791810-1663875501497_Q128/Jared-Hanson-5.jpg",
     "cover": "https://images.unsplash.com/photo-1670057046254-3b5095eb4b66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "readTime": 0,
+    "readTime": 22,
     "published": "04/29/2022"
   }
 ]

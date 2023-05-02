@@ -1,0 +1,61 @@
+.blog {
+  border-bottom: 1px solid #7788993a;
+  margin-bottom: 2.2rem;
+}
+
+.profile {
+  width: 75px;
+  border-radius: 50%;
+}
+
+.cover {
+  width: 845px;
+  height: 500px;
+  border-radius: 0.7rem;
+}
+
+.blog-info-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.blog-info {
+  display: flex;
+  margin: 0.8rem 0;
+  gap: 1rem;
+  align-items: center;
+}
+
+.blog-info h2 {
+  margin-bottom: 0;
+}
+
+.blog-info p {
+  margin-top: 5px;
+  font-weight: 500;
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+.read-time {
+  font-size: 1.3rem;
+  margin-right: 0.5rem;
+}
+
+.blog-title {
+  margin: 0;
+  font-size: 1.5rem;
+  width: 70%;
+}
+
+.blog button {
+  border: none;
+  margin: 1.5rem 0 2rem;
+  font-size: 1.2rem;
+  padding: 0;
+  cursor: pointer;
+  color: rgb(97, 25, 131);
+  background: none;
+  text-decoration: underline;
+}
