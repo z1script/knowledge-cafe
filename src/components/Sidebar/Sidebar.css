@@ -11,8 +11,11 @@
 }
 
 .bookmark-container {
-  width: 411px;
-  height: 1000px;
+  padding: 1rem 1.5rem;
   border-radius: 0.5rem;
   background-color: #11111111;
+}
+
+.bookmark-container h3 {
+  font-size: 1.7rem;
 }
