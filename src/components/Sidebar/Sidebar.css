@@ -4,21 +4,21 @@
 }
 
 .spent-time {
-  width: 411px;
-  height: 75px;
+  background-color: #6047ec21;
+  border-radius: 0.5rem;
+  border: 1px solid #6047ecc0;
   color: #6047ec;
   display: flex;
-  border: 1px solid #6047ecc0;
-  border-radius: 0.5rem;
+  height: 75px;
   justify-content: center;
   margin-bottom: 2rem;
-  background-color: #6047ec21;
+  width: 411px;
 }
 
 .bookmark-container {
-  padding: 1rem 1.5rem 2rem;
-  border-radius: 0.5rem;
   background-color: #11111111;
+  border-radius: 0.5rem;
+  padding: 1rem 1.5rem 2rem;
 }
 
 .bookmark-container h3 {
@@ -26,9 +26,9 @@
 }
 
 .bookmarked {
-  font-size: 1.2rem;
   background-color: white;
   border-radius: 5px;
+  font-size: 1.2rem;
   font-weight: 600;
   padding: 1rem;
 }
