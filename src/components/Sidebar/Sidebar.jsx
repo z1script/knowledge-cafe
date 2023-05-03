@@ -10,8 +10,8 @@ const Sidebar = (props) => {
         </h2>
       </div>
       <div className="bookmark-container">
-        <h3>Bookmarked Blogs: </h3>
-        <div>{props.bookmark}</div>
+        <h3>Bookmarked Blogs: {props.bookmark.length}</h3>
+        <div className="bookmarked">{props.bookmark}</div>
       </div>
     </div>
   );

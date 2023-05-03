@@ -9,7 +9,7 @@ const Blogs = () => {
   let [bookmark, setBookmark] = useState([]);
 
   const newBookmark = (title) => {
-    bookmark = title;
+    bookmark = [title];
     setBookmark(bookmark);
   };
 

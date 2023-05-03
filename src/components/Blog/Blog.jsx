@@ -6,6 +6,7 @@ import "./Blog.css";
 const Blog = (props) => {
   const {author, title, profile, cover, readTime, published} = props.blog;
   const newReadTime = props.newReadTime;
+  const newBookmark = props.newBookmark;
 
   return (
     <div className="blog">
