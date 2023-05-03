@@ -5,6 +5,8 @@ import "./Blog.css";
 
 const Blog = (props) => {
   const {author, title, profile, cover, readTime, published} = props.blog;
+  const newReadTime = props.newReadTime;
+
   return (
     <div className="blog">
       <img className="cover" src={cover} alt="" />
@@ -26,7 +28,7 @@ const Blog = (props) => {
         </div>
       </div>
       <h2 className="blog-title">{title}</h2>
-      <button>Mark as Read</button>
+      <button onClick={() => newReadTime(readTime)}>Mark as Read</button>
     </div>
   );
 };
