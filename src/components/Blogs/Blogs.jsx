@@ -2,6 +2,7 @@ import React, {useEffect, useState} from "react";
 import Blog from "../Blog/Blog";
 import Sidebar from "../Sidebar/Sidebar";
 import "./Blogs.css";
+import QNA from "../QNA/QNA";
 
 const Blogs = () => {
   const [blogs, setBlogs] = useState([]);
@@ -34,6 +35,7 @@ const Blogs = () => {
             newReadTime={newReadTime}
             newBookmark={newBookmark}></Blog>
         ))}
+        <QNA></QNA>
       </div>
       <div className="sidebar">
         <Sidebar time={readTime} bookmark={bookmark}></Sidebar>
